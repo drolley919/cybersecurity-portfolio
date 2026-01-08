@@ -7,3 +7,6 @@ Focus areas include:
 - Security policies and procedures
 - Compliance gap analysis
 - Control mapping and recommendations
+
+## Projects
+- Coming soon
