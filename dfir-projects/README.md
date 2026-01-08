@@ -7,3 +7,6 @@ Focus areas include:
 - Memory and process analysis
 - Timeline reconstruction
 - Evidence handling and integrity validation
+
+## Projects
+- Coming soon
