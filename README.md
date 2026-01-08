@@ -31,4 +31,4 @@ Risk assessments, policies, and compliance-focused work:
 
 ## Contact
 - LinkedIn: http://linkedin.com/in/devin-rolley-28a689223
-- Email: devin.rolley@gmeil.com
+- Email: devin.rolley@gmail.com
