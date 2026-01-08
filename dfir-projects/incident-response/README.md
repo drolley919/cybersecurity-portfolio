@@ -7,3 +7,6 @@ Focus areas include:
 - Breach analysis and response strategy
 - Communication and escalation workflows
 - Lessons learned and process improvement
+
+## Projects
+- Coming soon
