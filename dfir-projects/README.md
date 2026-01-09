@@ -9,4 +9,6 @@ Focus areas include:
 - Evidence handling and integrity validation
 
 ## Projects
-- Coming soon
+
+- [Host-Based Process and Network Analysis](https://github.com/drolley919/host-process-network-analysis)  
+  Live host investigation focusing on running processes, network connections, and executable validation.
