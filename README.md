@@ -16,6 +16,8 @@ FTK Imager, EnCase, Volatility3, Wireshark, Splunk, OpenSCAP, Nmap
 
 ### DFIR Projects
 
+- **DFIR Index:** `dfir-projects/`
+
 - **Host-Based Process and Network Analysis**  
   https://github.com/drolley919/host-process-network-analysis
 
