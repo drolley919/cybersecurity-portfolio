@@ -10,8 +10,22 @@ Focus areas include:
 
 ## Projects
 
-- **Host-Based Process and Network Analysis**  
-Live-response forensic investigation focusing on running processes, active network connections, PID correlation, and executable validation using hashing and threat intelligence.
+### 🔹 Host-Based Process and Network Analysis
+**Type:** Live Response / Host-Based DFIR  
+**Focus Areas:** Process enumeration, network connection analysis, PID correlation, executable validation  
 
-- **USB Forensic Investigation and Incident Response**  
-Disk-based forensic analysis involving evidence acquisition, artifact examination, timeline reconstruction, and integrity verification in support of an incident response scenario.
+Live host forensic investigation analyzing running processes, active TCP/UDP connections, and executable legitimacy using cryptographic hashing and threat intelligence.
+
+🔗 **Project Repository:**  
+https://github.com/drolley919/host-process-network-analysis
+
+---
+
+### 🔹 USB Forensic Investigation and Incident Response
+**Type:** Disk & USB Forensics / Incident Response  
+**Focus Areas:** Evidence acquisition, artifact analysis, timeline reconstruction, integrity validation  
+
+Forensic examination of removable media supporting an incident response scenario, emphasizing proper evidence handling and analysis methodology.
+
+🔗 **Project Repository:**  
+https://github.com/drolley919/usb-forensic-investigation  
