@@ -28,4 +28,4 @@ https://github.com/drolley919/host-process-network-analysis
 Forensic examination of removable media supporting an incident response scenario, emphasizing proper evidence handling and analysis methodology.
 
 🔗 **Project Repository:**  
-https://github.com/drolley919/usb-forensic-investigation  
+[ https://github.com/drolley919/usb-forensic-investigation](https://github.com/drolley919/usb-foresnic-investigation) 
