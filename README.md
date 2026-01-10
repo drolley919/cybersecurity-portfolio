@@ -20,7 +20,7 @@ FTK Imager, EnCase, Volatility3, Wireshark, Splunk, OpenSCAP, Nmap
   https://github.com/drolley919/host-process-network-analysis
 
 - **USB Forensic Investigation and Incident Response**  
-  https://github.com/drolley919/usb-forensic-investigation
+ [ https://github.com/drolley919/usb-forensic-investigation](https://github.com/drolley919/usb-foresnic-investigation)
   
 ### Incident Response
 Incident response plans and post-incident analyses:  
