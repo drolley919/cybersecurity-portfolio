@@ -34,6 +34,13 @@ Forensic investigation of a USB device involving evidence acquisition, hash veri
 
 ---
 
+### **Disk & File System Forensic Analysis (NTFS)**
+In-depth forensic analysis of an NTFS file system focused on evidence integrity validation, file metadata interpretation, deleted and hidden artifacts, and structured forensic reporting.
+
+🔗 https://github.com/drolley919/disk-file-system-forensic-analysis
+
+---
+
 ## Incident Response Work
 Incident response documentation, investigation summaries, and response planning artifacts demonstrating structured triage, containment, and remediation workflows.
 
