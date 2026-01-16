@@ -30,7 +30,7 @@ Live host forensic analysis examining running processes, active network connecti
 ### **USB Forensic Investigation & Malware Analysis**
 Forensic investigation of a USB device involving evidence acquisition, hash verification, malware identification, timestamp analysis, and user attribution within a corporate environment.
 
-🔗 https://github.com/drolley919/usb-forensic-investigation
+🔗 [https://github.com/drolley919/usb-forensic-investigation](https://github.com/drolley919/usb-foresnic-investigation)
 
 ---
 
