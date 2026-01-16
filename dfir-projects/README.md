@@ -30,7 +30,7 @@ https://github.com/drolley919/host-process-network-analysis
 Forensic examination of a removable USB device supporting an incident response scenario, emphasizing forensic soundness, malware identification, evidence validation, and user attribution.
 
 🔗 **Project Repository:**  
-https://github.com/drolley919/usb-forensic-investigation
+[https://github.com/drolley919/usb-forensic-investigation](https://github.com/drolley919/usb-foresnic-investigation)
 
 ---
 
